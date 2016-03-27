@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ADP/ADP.iml" filepath="$PROJECT_DIR$/ADP/ADP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment4.iml" filepath="$PROJECT_DIR$/Assignment4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Designs/OOP Designs.iml" filepath="$PROJECT_DIR$/OOP Designs/OOP Designs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Open-Close/Open-Close.iml" filepath="$PROJECT_DIR$/Open-Close/Open-Close.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID - DPI/SOLID - DPI.iml" filepath="$PROJECT_DIR$/SOLID - DPI/SOLID - DPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID - ISP/SOLID - ISP.iml" filepath="$PROJECT_DIR$/SOLID - ISP/SOLID - ISP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID - LSP/SOLID - LSP.iml" filepath="$PROJECT_DIR$/SOLID - LSP/SOLID - LSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID - PLK/SOLID - PLK.iml" filepath="$PROJECT_DIR$/SOLID - PLK/SOLID - PLK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/SOLID - SRP.iml" filepath="$PROJECT_DIR$/SOLID/SOLID - SRP.iml" />
+    </modules>
+  </component>
+</project>

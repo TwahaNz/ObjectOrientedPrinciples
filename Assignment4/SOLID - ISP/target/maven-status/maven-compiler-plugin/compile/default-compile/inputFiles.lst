@@ -1,0 +1,12 @@
+/media/UUI/Downloads/Assignment4/SOLID - ISP/src/main/java/com/tnz/app/domain/Manager.java
+/media/UUI/Downloads/Assignment4/SOLID - ISP/src/main/java/com/tnz/app/isp/disobey/services/implement/Machine.java
+/media/UUI/Downloads/Assignment4/SOLID - ISP/src/main/java/com/tnz/app/isp/disobey/services/implement/Worker.java
+/media/UUI/Downloads/Assignment4/SOLID - ISP/src/main/java/com/tnz/app/isp/disobey/services/implement/OverTimeWorker.java
+/media/UUI/Downloads/Assignment4/SOLID - ISP/src/main/java/com/tnz/app/services/implement/Worker.java
+/media/UUI/Downloads/Assignment4/SOLID - ISP/src/main/java/com/tnz/app/services/IWork.java
+/media/UUI/Downloads/Assignment4/SOLID - ISP/src/main/java/com/tnz/app/services/ILunchable.java
+/media/UUI/Downloads/Assignment4/SOLID - ISP/src/main/java/com/tnz/app/tests/App.java
+/media/UUI/Downloads/Assignment4/SOLID - ISP/src/main/java/com/tnz/app/isp/disobey/domain/Manager.java
+/media/UUI/Downloads/Assignment4/SOLID - ISP/src/main/java/com/tnz/app/isp/disobey/services/IWork.java
+/media/UUI/Downloads/Assignment4/SOLID - ISP/src/main/java/com/tnz/app/services/implement/OverTimeWorker.java
+/media/UUI/Downloads/Assignment4/SOLID - ISP/src/main/java/com/tnz/app/services/implement/Machine.java

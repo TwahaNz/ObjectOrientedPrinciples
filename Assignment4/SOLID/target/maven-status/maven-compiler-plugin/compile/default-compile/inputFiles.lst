@@ -1,0 +1,10 @@
+/media/UUI/Downloads/Assignment4/SOLID/src/main/java/com/tnz/app/services/implement/EmailSender.java
+/media/UUI/Downloads/Assignment4/SOLID/src/main/java/srp/disobey/services/implement/EmailSender.java
+/media/UUI/Downloads/Assignment4/SOLID/src/main/java/com/tnz/app/domain/Email.java
+/media/UUI/Downloads/Assignment4/SOLID/src/main/java/srp/disobey/services/IEmailSender.java
+/media/UUI/Downloads/Assignment4/SOLID/src/main/java/com/tnz/app/services/IEmailSender.java
+/media/UUI/Downloads/Assignment4/SOLID/src/main/java/srp/disobey/services/IDownload.java
+/media/UUI/Downloads/Assignment4/SOLID/src/main/java/srp/disobey/domain/Email.java
+/media/UUI/Downloads/Assignment4/SOLID/src/main/java/srp/disobey/tests/App.java
+/media/UUI/Downloads/Assignment4/SOLID/src/main/java/srp/disobey/services/IUpload.java
+/media/UUI/Downloads/Assignment4/SOLID/src/main/java/com/tnz/app/tests/App.java
